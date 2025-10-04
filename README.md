@@ -4,7 +4,7 @@
 
 📜 **Certificate:** (https://github.com/AmeenaSamreen110/Certificates-and-achievements/raw/main/Cisco_Cybersecurity_Certificate.png)
 
-🏅 **Badge:** (https://github.com/AmeenaSamreen110/Certificates-and-achievements/raw/main/Cisco_Badge.png)
+🏅 **Badge:** (https://github.com/AmeenaSamreen110/Certificates-and-achievements/blob/main/Cisco_cybersecurity_badge.png)
 
 # Cybersecurity Certificates & Achievements  
 
