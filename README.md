@@ -2,8 +2,10 @@
 ### Introduction to Cybersecurity (2025)
 - Earned **Cisco Certificate & Digital Badge** after completing the course.
 
-📜 **Certificate:** [View PDF](https://github.com/AmeenaSamreen110/Certificates-and-achievements/blob/main/Cisco_Cybersecurity_Certificate.pdf)  
-🏅 **Badge:** [View Badge](https://github.com/AmeenaSamreen110/Certificates-and-achievements/blob/main/Cisco_Digital_Badge.pdf)
+📜 **Certificate:** (https://github.com/AmeenaSamreen110/Certificates-and-achievements/raw/main/Cisco_Cybersecurity_Certificate.png)
+
+🏅 **Badge:** (https://github.com/AmeenaSamreen110/Certificates-and-achievements/raw/main/Cisco_Badge.png)
+
 # Cybersecurity Certificates & Achievements  
 
 This repository showcases my certifications, badges, and workshops in the field of **Cybersecurity**.  
